@@ -6,7 +6,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import "/Users/ib00sh/Documents/rs.ios.stage-task1/Objc_Task1/ios.stage-task1/Exercises/Exercise-1/OddNumbers.h"
+#import "OddNumbers.h"
 
 @interface OddNumbersTests : XCTestCase
 
